@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning on daily basis
 - 💞️ I’m looking to collaborate on projects I like
-- 📫 How to reach me samiline@gmail.com
+- 📫 How to reach me satheesh.amilineni@gmail.com
 
 <!---
 samiline/samiline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
